@@ -1,0 +1,61 @@
+
+.button{ background-color:#3b5998;
+    color:white;
+    text-decoration: none;
+
+}
+.name {color: white;
+
+}
+.password{color:white;
+
+}
+.forgot{
+    text-decoration: none;
+}
+.email{
+    text-decoration: none;
+}
+.sign{
+    background-color: #0f8c28;
+    display: block;
+    width:150px;
+    height: 40px;
+    font-size: 20px;
+    color:white;  
+    transition: 500ms;       
+}
+.sign:hover { background-color:#3b5998;
+    width: 180px;
+
+}
+.reset{
+    background-color: #3b5998;
+    width: 70px;
+    height: 30px;
+    font-size: 20px;
+}
+.terms{
+    text-decoration: none;
+}
+.policy{
+    text-decoration: none;
+}
+.reset{
+    color:white;
+    transition: 500ms;
+}
+.reset:hover{
+    background-color: lime;
+    width:80px ;
+}
+.button{
+    color:white;
+}
+.up{
+    color:white;
+    text-decoration: none;
+}
+.log{
+    background-color:#3b5998 ;
+}
